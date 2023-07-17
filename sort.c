@@ -55,7 +55,6 @@ void heapSort(int arr[], int n)
 // extraMemoryAllocated counts bytes of extra memory allocated
 void mergeSort(int pData[], int l, int r)
 {
-	printf("lmao\n");
 }
 
 // parses input file to an integer array
